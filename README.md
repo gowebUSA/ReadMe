@@ -5,9 +5,7 @@ General notes and important links.
 2. Insert image `![img](/img-src-link)`
 
 3. Use this for bullets:
-<br />•	Bullets here
-         •	Siblings
-
+<br />•	Simple bullets here
 
 4. Use this for breaklies:
 ________________________________________
