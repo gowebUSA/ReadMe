@@ -10,4 +10,4 @@ Use this for bullets:
 Use this for breaklies:
 ________________________________________
 
-Use this for showing codes ` [`] `
+Use this for showing codes ` [speacial ', see raw code] `
