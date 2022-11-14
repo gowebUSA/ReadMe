@@ -7,9 +7,9 @@ General notes and important links.
 3. Use this for bullets:
 <br />•	Simple bullets here
 
-4. Use this for breaklies:
+4. Use this for breaklines:
 ________________________________________
 
 5. Use this for showing codes ` [speacial ', see raw code] `
 6. [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
- 
+7. Use ``` for blocking for codes. 
