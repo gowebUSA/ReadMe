@@ -12,4 +12,4 @@ ________________________________________
 
 5. Use this for showing codes ` [special ', see raw code] `
 6. [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-7. Use ``` [special ', see raw code] ``` for blocking codes. 
+7. Use ``` [special ', see raw code] ``` for blocking long inline codes. 
