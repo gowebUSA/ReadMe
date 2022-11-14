@@ -11,3 +11,5 @@ General notes and important links.
 ________________________________________
 
 5. Use this for showing codes ` [speacial ', see raw code] `
+6. [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+ 
