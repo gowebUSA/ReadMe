@@ -10,6 +10,9 @@ General notes and important links.
 4. Use this for breaklines:
 ________________________________________
 
-5. Use this for showing codes ` [speacial ', see raw code] `
+5. Use this for showing codes ` [special ', see raw code] `
 6. [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-7. Use ``` for blocking for codes. 
+7. Use ``` [special ', see raw code] 
+8. 
+9. 
+10. ``` for blocking codes. 
